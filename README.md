@@ -10,9 +10,9 @@ The applications will be:
 ## Installation
 The following tools/applications are required to develop or run this project:
   - Ansible (if you don't have yet use this [link to install](http://docs.ansible.com/ansible/intro_installation.html))
-  - AWS Account
-  - Python 2.7+
-  - Docker
+  - [AWS Account](https://aws.amazon.com/)
+  - [Python 2.7+](https://www.python.org/download/releases/2.7/)
+  - [Docker](https://docs.docker.com/get-started/)
 
 The used Docker images are from:
   - WordPress: https://hub.docker.com/_/wordpress/
@@ -20,7 +20,7 @@ The used Docker images are from:
 ## Usage
 
 ## Tasks
- - [  ] Task 1: Install and investigate how to use Ansible   
+ - [ X ] Task 1: Install and investigate how to use Ansible   
  - [  ] Task 2: Create docker-compose for ELK
  - [  ] Task 3: Provisioning AWS infrastructure to run ELK using Ansible
  - [  ] Task 4: Create docker-compose for Wordpress + Nginx application
